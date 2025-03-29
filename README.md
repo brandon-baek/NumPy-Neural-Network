@@ -1,4 +1,3 @@
-# Seer
-A Neural Network
+# NumPy Neural Network
 
-Seer is a simplistic Neural Network developed by Brandon Baek from scratch using Numpy.
+A simplistic Neural Network developed by Brandon Baek from scratch using only Numpy.
